@@ -26,7 +26,7 @@ function App() {
 				<Navbar
 					timer={toggleFocusTimer}
 				/>
-				<div className="mt-2">
+				<div className="mt-2 overflow-hidden">
 					<Routes>
 						<Route path="/" element={<Resources />} />
 						{/* <Route path="/communities" element={<Communities />} /> */}
