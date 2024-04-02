@@ -7,7 +7,6 @@ export default function PlayerPage() {
 
     const { data } = useParams();
     const parsedData = JSON.parse(data);
-    console.log(parsedData);
 
     const [ videoData, setVideoData ] = useState({});
     const videoTitle = toTitleCase(videoData.snippet?.title);
