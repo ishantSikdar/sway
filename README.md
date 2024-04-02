@@ -1,5 +1,5 @@
 # Introduction
-The purpose of this document is to outline the requirements for the development of an application referred to as LearnLinx. LearnLinx is a cross-platform mobile & web app designed to streamline access to educational content from YouTube. Users can search for topics that they want to study, and the app will provide curated subtopics with relevant YouTube videos.
+Sway is a cross-platform mobile & web app designed to streamline access to educational content from YouTube. Users can search for topics that they want to study, and the app will provide curated subtopics with relevant YouTube videos.
 
 ## Features
 - **Search Playlists:** Users can search for topics they want to study, generating subtopics with relevant YouTube videos.
