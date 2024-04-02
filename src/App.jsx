@@ -32,7 +32,7 @@ function App() {
 						{/* <Route path="/communities" element={<Communities />} /> */}
 						{/* <Route path="/shorts" element={<Shorts />} /> */}
 						{/* <Route path="/courses" element={<Courses />} /> */}
-						{/* <Route path="/subject/:data" element={<PlayerPage />} /> */}
+						<Route path="/subject/:data" element={<PlayerPage />} />
 
 						<Route path="*" element={<NotFound />} />
 					</Routes>
