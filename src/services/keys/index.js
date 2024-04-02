@@ -1,0 +1,1 @@
+export const YT_KEY = import.meta.env.VITE_YT_KEY;
