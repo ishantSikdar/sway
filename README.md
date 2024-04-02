@@ -38,4 +38,4 @@ _Reference from FLIP Study App: [FLIP Study – Google Play](https://play.google
 
 ## Docs
 - **YouTube API:** [YouTube Data API](https://developers.google.com/youtube/v3)
-- **Web Page structure:** [Page UI - Excalidraw](https://excalidraw.com/#json=86IsTrYse37duMSjjlvO-,ybA3xqHa8rL9iIJx36728w)
+- **Web Page structure:** [Page UI - Excalidraw](https://excalidraw.com/#json=qI6iNGFKWuKAXcL2jxqpe,-ZJ86Z3Mq9ZS_uEV1X5yHg)
