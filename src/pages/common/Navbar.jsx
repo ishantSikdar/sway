@@ -1,20 +1,22 @@
 import { Link } from "react-router-dom";
 
-export default function Navbar() {
-    return (
-        <div className="flex justify-between items-center rounded-xl border-2 p-2">
-            <div>
-                {/* Timer */}
-                <Link to="/timer">
-                    <img src="/timer.svg" alt="Focus Timer" />
-                </Link>
-            </div>
+    export default function Navbar({ timer }) {
+
+
+        return (
+            <div className="flex justify-between items-center rounded-xl border-2 p-2">
+                <div>
+                    {/* Timer */}
+                    <button onClick={timer} className="cursor-pointer">
+                        <img src="/timer.svg" alt="Focus Timer" />
+                    </button>
+                </div>
 
             <div className="flex justify-around gap-2 items-center md:gap-5">
                 <div>
                     {/* Resources */}
                     <Link to="/">
-                        <img src="/resources.svg" alt="Resources" className="h-14"/>
+                        <img src="/resources.svg" alt="Resources" className="h-14" />
                     </Link>
                 </div>
                 <div>
